@@ -124,7 +124,6 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
-
             TextButton(
               onPressed: () => throw Exception(),
               child: const Text("Throw Test Exception"),
