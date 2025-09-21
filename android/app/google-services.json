@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498988326443",
+    "project_id": "cicd-ea53d",
+    "storage_bucket": "cicd-ea53d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498988326443:android:3c33301ba949ff96dd146e",
+        "android_client_info": {
+          "package_name": "com.test.cicd.cicd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58UziP2-bToUIATve0H0NSw8LWbyU9uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
