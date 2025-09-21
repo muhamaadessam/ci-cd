@@ -65,4 +65,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'cicd-ea53d.firebasestorage.app',
     iosBundleId: 'com.test.cicd.cicd',
   );
+
 }
